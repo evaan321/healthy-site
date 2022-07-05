@@ -1,0 +1,60 @@
+.firstsection{
+
+    display: flex;
+
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    
+}
+
+.anda { 
+    width: 700px;
+
+
+}
+.div1 {
+
+    margin-top: 60px;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+
+    font-size: 50px;
+
+
+}
+
+p{
+
+    
+    font-family: 'Arimo', sans-serif;
+
+    font-size: 30px;
+}
+.first-button {
+     text-decoration: none;
+
+     background-image: linear-gradient(blue, green);
+
+     padding: 10px 40px;
+
+     font-weight: 700;
+
+    color: white;
+
+    border-radius: 15px;
+
+}
+
+.section2 { display: flex;
+
+    background-image: url( images/shapes/Frame\ 58.jpg );
+
+
+}
+
+.marwa {
+
+    margin-top: 40px;
+
+}
