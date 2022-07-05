@@ -53,8 +53,89 @@ p{
 
 }
 
-.marwa {
 
-    margin-top: 40px;
 
+#shimu {
+
+
+   text-align: center;
+
+
+}
+.shimurclass {
+
+text-align: center;
+
+
+}
+.lastpart {
+
+    
+
+    background-repeat: none;
+    
+    display: flex;
+
+    width: 50%;
+
+    margin-left: 20%;
+
+   
+}
+
+.cool1 {
+
+    width: 40%;
+
+    margin-left: 7%;
+
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px blue;
+
+    padding-left: 5%;
+    padding-right: 5%;
+
+    margin-bottom: 20px;
+
+    border: solid 20px grey;
+ 
+   
+
+
+
+
+
+}
+
+.pantarpic {
+
+    width: 400px;
+}
+
+
+.panta2 { 
+
+
+
+
+width: 40%;
+
+    margin-left: 7%;
+
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px violet;
+
+    padding-left: 5%;
+    padding-right: 5%;
+
+    margin-bottom: 20px;
+    border: solid 20px grey;
+
+}
+
+.ajobgajob {
+
+    
+
+    background-image: url( images/bg-9-full.jpg );
 }
